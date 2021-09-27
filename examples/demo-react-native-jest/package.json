@@ -1,6 +1,6 @@
 {
   "name": "demo-react-native-jest",
-  "version": "18.21.1",
+  "version": "18.21.2",
   "private": true,
   "scripts": {
     "test:ios-release": "detox test --configuration ios.sim.release -l verbose",

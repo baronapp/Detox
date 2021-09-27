@@ -1,6 +1,6 @@
 {
   "name": "detox-demo-native-android",
-  "version": "18.21.1",
+  "version": "18.21.2",
   "private": true,
   "scripts": {
     "packager": "react-native start",

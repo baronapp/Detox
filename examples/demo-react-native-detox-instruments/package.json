@@ -1,6 +1,6 @@
 {
   "name": "demo-react-native-detox-instruments",
-  "version": "18.21.1",
+  "version": "18.21.2",
   "private": true,
   "scripts": {},
   "devDependencies": {
