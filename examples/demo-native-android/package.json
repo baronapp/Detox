@@ -1,6 +1,6 @@
 {
   "name": "detox-demo-native-android",
-  "version": "18.21.0-smoke.0",
+  "version": "18.21.1",
   "private": true,
   "scripts": {
     "packager": "react-native start",
